@@ -18,8 +18,8 @@ The app is entirely built for [Firebase](firebase.google.com).
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/fuljo/live-slide-deck
-   cd live-slide-deck
+   git clone https://github.com/fuljo/Co-Viewer-PDF
+   cd Co-Viewer-PDF
    ```
 
 ### Setting up Firebase
