@@ -142,15 +142,6 @@ The admin page is served at `/admin`. It allows authenticated admin users to:
 - change the current slide number with the center input field
 - go to the previous/next slide with the on-screen buttons or the keyboard arrows
 
-## Contributing
-
-I ([fuljo](https://github.com/fuljo)) quickly hacked this app for the [SWERC 2022-2023](https://swerc.eu/2022/about) event. It lacks a lot of front-end features and is still far from perfect. Some future improvements I suggest:
-
-- [ ]  Uploading slide decks through the Admin UI
-- [ ]  Managing the users from the UI
-- [ ]  Multiple presentation sessions
-
-If you wish to contribute please open a *Pull Request*.
 
 ## 3rd-party libraries
 
