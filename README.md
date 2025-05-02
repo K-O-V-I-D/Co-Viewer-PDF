@@ -150,5 +150,3 @@ This project relies on:
 - [Webpack](https://webpack.js.org/) for building.
 - [PDF.js](https://mozilla.github.io/pdf.js/) for in-browser PDF rendering.
 - [Bootstrap](https://getbootstrap.com/) for theming and icons.
-
-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#@$#%%%%%%%%%%%%%%%%%%%
